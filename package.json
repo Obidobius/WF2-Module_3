@@ -1,0 +1,20 @@
+{
+  "name": "module_3",
+  "version": "1.0.0",
+  "description": "Module 3. Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oda Gabriela Undertun Antonsen",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-less": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
